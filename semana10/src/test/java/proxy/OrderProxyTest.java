@@ -9,7 +9,7 @@ import static org.junit.Assert.*;
  *
  * @author Weslei
  */
-public class OrderTest {
+public class OrderProxyTest {
     
     @Before
     public void setUp() {
